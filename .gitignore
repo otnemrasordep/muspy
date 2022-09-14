@@ -161,3 +161,11 @@ cython_debug/
 
 # Local History for Visual Studio Code
 .history/
+
+# MIDI files for DadaGP evaluation
+.ieee-midi-generation/
+.ismir2022-midi-generation/
+.midi-dadaGP-v1.1/
+.gp7-to-xml/
+.midi-test/
+.xml-test/

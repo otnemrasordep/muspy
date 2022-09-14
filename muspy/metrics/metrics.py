@@ -4,8 +4,8 @@ import math
 import numpy as np
 from numpy import ndarray
 
-from ..music import Music
-
+#from ..music import Music
+from muspy.music import Music
 
 def n_pitches_used(music: Music) -> int:
     """Return the number of unique pitches used.
